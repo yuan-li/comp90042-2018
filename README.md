@@ -1,6 +1,8 @@
 # Workshop Slides
 for COMP90042 Web Search and Text Analysis (2018 S1) - The University of Melbourne
 
+I've created a dropbox folder and uploaded all files there. [[dropbox link](https://www.dropbox.com/sh/ymis4t0zhxnt7or/AABUFWTFhksh1D3IRqqpynGSa?dl=0&lst=)]
+
 Week|Slides 
 ----|------
 2|[2018S1_WSTA_Week02.pdf](slides/2018S1_WSTA_Week02.pdf)
