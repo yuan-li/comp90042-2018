@@ -9,7 +9,10 @@ Week|Slides
 2|[week02_bow.ipynb](slides/week02_bow.ipynb) (view in [html](https://yuan-li.github.io/comp90042-2018/slides/week02_bow.html))
 3|[2018S1_WSTA_Week03.pdf](slides/2018S1_WSTA_Week03.pdf)
 3|[week03_SVD.ipynb](slides/week03_SVD.ipynb) (view in [html](https://yuan-li.github.io/comp90042-2018/slides/week03_SVD.html))
+4|[2018S1_WSTA_Week04.pdf](slides/2018S1_WSTA_Week04.pdf)
+4|[week04_max_reward.ipynb](slides/week04_max_reward.ipynb) (view in [html](https://yuan-li.github.io/comp90042-2018/slides/week04_max_reward.html))
 
 ---
 # Updates
 * 2018-03-14 08:30 Upload slides (Week 02&03)
+* 2018-03-21 00:06 Upload slides (Week 04)
