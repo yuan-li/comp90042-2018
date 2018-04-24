@@ -14,7 +14,7 @@ Week|Slides
 5|[2018S1_WSTA_Week05.pdf](slides/2018S1_WSTA_Week05.pdf)
 6|[2018S1_WSTA_Week06.pdf](slides/2018S1_WSTA_Week06.pdf)
 7|[2018S1_WSTA_Week07.pdf](slides/2018S1_WSTA_Week07.pdf)
-7|[2018S1_WSTA_Week08.pdf](slides/2018S1_WSTA_Week08.pdf)
+8|[2018S1_WSTA_Week08.pdf](slides/2018S1_WSTA_Week08.pdf)
 
 ---
 # Updates
