@@ -14,9 +14,11 @@ Week|Slides
 5|[2018S1_WSTA_Week05.pdf](slides/2018S1_WSTA_Week05.pdf)
 6|[2018S1_WSTA_Week06.pdf](slides/2018S1_WSTA_Week06.pdf)
 7|[2018S1_WSTA_Week07.pdf](slides/2018S1_WSTA_Week07.pdf)
+7|[2018S1_WSTA_Week08.pdf](slides/2018S1_WSTA_Week08.pdf)
 
 ---
 # Updates
+* 2018-04-24 20:19 Upload slides (Week 08)
 * 2018-04-17 22:38 Upload slides (Week 07)
 * 2018-04-10 21:49 Upload slides (Week 06)
 * 2018-03-28 00:24 Upload slides (Week 05)
