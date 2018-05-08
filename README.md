@@ -19,9 +19,11 @@ Week|Slides
 9|[week09_logistic_regression.ipynb](slides/week09_logistic_regression.ipynb) (view in [html](https://yuan-li.github.io/comp90042-2018/slides/week09_logistic_regression.html))
 9|[week09_color_names.pdf](slides/week09_color_names.pdf)
 9|[images.zip](slides/images.zip)
+10|[2018S1_WSTA_Week10.pdf](slides/2018S1_WSTA_Week10.pdf)
 
 ---
 # Updates
+* 2018-05-08 22:06 Upload slides (Week 10)
 * 2018-05-01 20:46 Upload notebooks & files (Week 09)
 * 2018-04-24 20:19 Upload slides (Week 08)
 * 2018-04-17 22:38 Upload slides (Week 07)
